@@ -1,0 +1,4 @@
+python-telegram-bot==20.8
+azure-ai-inference==1.0.0b6
+azure-core>=1.30.0
+python-dotenv==1.0.1

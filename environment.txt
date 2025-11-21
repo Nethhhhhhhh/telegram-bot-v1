@@ -1,0 +1,4 @@
+$env:telegram_token="8516080818:AAHZ72UcHwAg93pWKxHfJjWQYR-qkltxiXY"
+$env:GITHUB_TOKEN="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"
+$env:GITHUB_MODELS_ENDPOINT="https://models.github.ai/inference"
+$env:GITHUB_MODELS_MODEL="openai/gpt-4.1"
